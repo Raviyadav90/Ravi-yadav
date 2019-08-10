@@ -1,0 +1,5 @@
+# hello.c
++ void main()
+{
+printf("Hello World");
+}
